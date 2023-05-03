@@ -1,0 +1,1332 @@
+.box,
+.box1,
+.box2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 12px;
+  background-color: #fff;
+  border: 2px dashed rgba(28, 29, 34, 0.08);
+  box-sizing: border-box;
+  width: 352px;
+  height: 826px;
+}
+.box1,
+.box2 {
+  top: 192px;
+  width: 320px;
+  height: 178px;
+}
+.box2 {
+  top: 0;
+}
+.dragYourTask {
+  position: absolute;
+  top: 81px;
+  left: 81px;
+  line-height: 100%;
+  font-weight: 600;
+}
+.box3,
+.task {
+  position: absolute;
+  left: 0;
+  width: 320px;
+  height: 178px;
+}
+.task {
+  top: 576px;
+  font-size: 16px;
+}
+.box3 {
+  top: 0;
+  border-radius: 12px;
+  background-color: #fff;
+  border: 2px solid rgba(28, 29, 34, 0.06);
+  box-sizing: border-box;
+}
+.itemIcon,
+.itemIcon1 {
+  top: 0;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.itemIcon {
+  position: absolute;
+  left: 0;
+}
+.itemIcon1 {
+  left: 18px;
+}
+.b,
+.boxIcon,
+.itemIcon1 {
+  position: absolute;
+}
+.boxIcon {
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+}
+.b {
+  top: 9px;
+  left: 8px;
+  line-height: 100%;
+}
+.item,
+.items {
+  top: 0;
+  height: 30px;
+}
+.item {
+  position: absolute;
+  left: 36px;
+  width: 30px;
+}
+.items {
+  left: 214px;
+  width: 66px;
+}
+.bottom,
+.date,
+.items {
+  position: absolute;
+}
+.date {
+  top: 0;
+  left: 0;
+  border-radius: 17px;
+  background-color: rgba(136, 141, 167, 0.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 14px;
+  color: #888da7;
+}
+.bottom {
+  top: 128px;
+  left: 20px;
+  width: 280px;
+  height: 30px;
+  font-size: 12px;
+}
+.box4 {
+  height: 100%;
+  top: 0;
+  border-radius: 2px;
+  background-color: rgba(28, 29, 34, 0.08);
+}
+.box4,
+.fill,
+.slider {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.fill {
+  height: 100%;
+  top: 0;
+  border-radius: 2px;
+  background-color: #78d700;
+}
+.slider {
+  height: 13.33%;
+  top: 86.67%;
+}
+.div,
+.progress1 {
+  position: absolute;
+  top: 1px;
+  left: 243px;
+  line-height: 100%;
+  font-weight: 600;
+}
+.progress1 {
+  left: 20px;
+}
+.icon {
+  width: 16px;
+  overflow: hidden;
+  opacity: 0.5;
+}
+.icon,
+.progress,
+.title,
+.top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 16px;
+}
+.title {
+  width: 79px;
+  text-align: left;
+  color: rgba(28, 29, 34, 0.5);
+}
+.progress,
+.top {
+  width: 280px;
+}
+.progress {
+  height: 16.85%;
+  width: 87.5%;
+  top: 43.82%;
+  right: 6.25%;
+  bottom: 39.33%;
+  left: 6.25%;
+  text-align: right;
+}
+.moreIcon {
+  position: absolute;
+  top: 0;
+  left: 254px;
+  width: 26px;
+  height: 26px;
+}
+.twitterMarketing {
+  position: absolute;
+  top: 22px;
+  left: 0;
+  line-height: 100%;
+  font-weight: 500;
+}
+.makeTwitterBanner,
+.title1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.makeTwitterBanner {
+  font-size: 16px;
+  line-height: 100%;
+  color: #1c1d22;
+}
+.title1 {
+  width: 156px;
+  height: 36px;
+}
+.top1 {
+  top: 20px;
+  left: 20px;
+  width: 280px;
+  height: 36px;
+  color: rgba(28, 29, 34, 0.5);
+}
+.div1,
+.task1,
+.top1 {
+  position: absolute;
+}
+.task1 {
+  top: 384px;
+  left: 0;
+  width: 320px;
+  height: 178px;
+  color: #1c1d22;
+}
+.div1 {
+  top: 11.11%;
+  left: 73.33%;
+  line-height: 100%;
+  font-weight: 600;
+}
+.icon1 {
+  top: 0;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  opacity: 0.5;
+}
+.attach,
+.div2,
+.icon1 {
+  position: absolute;
+}
+.attach {
+  height: 100%;
+  width: 39.47%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 60.53%;
+}
+.div2 {
+  top: 11.11%;
+  left: 64.71%;
+  line-height: 100%;
+  font-weight: 600;
+}
+.comment {
+  height: 100%;
+  width: 44.74%;
+  top: 0;
+  right: 55.26%;
+  bottom: 0;
+  left: 0;
+}
+.comment,
+.date1,
+.right {
+  position: absolute;
+}
+.right {
+  height: 60%;
+  width: 27.14%;
+  top: 20%;
+  right: 0;
+  bottom: 20%;
+  left: 72.86%;
+}
+.date1 {
+  top: 0;
+  left: 0;
+  border-radius: 17px;
+  background-color: rgba(136, 141, 167, 0.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: #888da7;
+  font-family: "Exo 2";
+}
+.bottom1,
+.progress2 {
+  position: absolute;
+  height: 16.85%;
+  width: 87.5%;
+  right: 6.25%;
+  left: 6.25%;
+}
+.bottom1 {
+  top: 71.91%;
+  bottom: 11.24%;
+  font-family: "Baloo 2";
+}
+.progress2 {
+  top: 43.82%;
+  bottom: 39.33%;
+  text-align: right;
+  color: #1c1d22;
+}
+.title3,
+.top3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 201px;
+  height: 36px;
+}
+.top3 {
+  top: 20px;
+  left: 20px;
+  width: 280px;
+}
+.task2 {
+  top: 192px;
+  left: 0;
+  width: 320px;
+  height: 178px;
+}
+.attach1,
+.div5,
+.task2 {
+  position: absolute;
+}
+.attach1 {
+  height: 100%;
+  width: 42.86%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 57.14%;
+}
+.div5 {
+  top: 11.11%;
+  left: 78.57%;
+  line-height: 100%;
+  font-weight: 600;
+}
+.comment1,
+.right1 {
+  position: absolute;
+  height: 100%;
+  width: 40%;
+  top: 0;
+  right: 60%;
+  bottom: 0;
+  left: 0;
+}
+.right1 {
+  height: 60%;
+  width: 25%;
+  top: 20%;
+  right: 0;
+  bottom: 20%;
+  left: 75%;
+}
+.task3,
+.tasks,
+.title5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 198px;
+  height: 36px;
+}
+.task3,
+.tasks {
+  width: 320px;
+  height: 178px;
+}
+.tasks {
+  top: 56px;
+  left: 16px;
+  height: 754px;
+}
+.addNewTask {
+  position: absolute;
+  top: 2px;
+  left: 24px;
+  line-height: 100%;
+  font-weight: 600;
+}
+.add,
+.icon7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 18px;
+  height: 18px;
+}
+.add {
+  left: 209px;
+  width: 111px;
+}
+.done3 {
+  top: 2px;
+  left: 0;
+  line-height: 100%;
+  font-weight: 600;
+  color: rgba(28, 29, 34, 0.5);
+}
+.done,
+.done3,
+.top6 {
+  position: absolute;
+}
+.top6 {
+  top: 22px;
+  left: 16px;
+  width: 320px;
+  height: 18px;
+  color: #1c1d22;
+}
+.done {
+  top: 164px;
+  left: 1180px;
+  width: 352px;
+  height: 826px;
+}
+.div7 {
+  top: 11.11%;
+  left: 62.86%;
+  line-height: 100%;
+  font-weight: 600;
+}
+.attach2,
+.div7,
+.div8 {
+  position: absolute;
+}
+.attach2 {
+  height: 100%;
+  width: 41.67%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 58.33%;
+}
+.div8 {
+  top: 11.11%;
+  left: 59.46%;
+  line-height: 100%;
+  font-weight: 600;
+}
+.comment2,
+.right2 {
+  position: absolute;
+  height: 100%;
+  width: 44.05%;
+  top: 0;
+  right: 55.95%;
+  bottom: 0;
+  left: 0;
+}
+.right2 {
+  height: 60%;
+  width: 30%;
+  top: 20%;
+  right: 0;
+  bottom: 20%;
+  left: 70%;
+}
+.date3 {
+  top: 0;
+  left: 0;
+  border-radius: 17px;
+  background-color: rgba(255, 160, 72, 0.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: #ffa048;
+  font-family: "Exo 2";
+}
+.date3,
+.div9,
+.fill3 {
+  position: absolute;
+}
+.fill3 {
+  height: 100%;
+  width: 30%;
+  top: 0;
+  right: 70%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2px;
+  background-color: #ff7979;
+}
+.div9 {
+  top: 1px;
+  left: 250px;
+  line-height: 100%;
+  font-weight: 600;
+}
+.title7 {
+  top: 0;
+  width: 169px;
+  height: 36px;
+}
+.date4,
+.task4,
+.title7 {
+  position: absolute;
+  left: 0;
+}
+.task4 {
+  top: 576px;
+  width: 320px;
+  height: 178px;
+}
+.date4 {
+  top: 0;
+  border-radius: 17px;
+  background-color: rgba(255, 121, 121, 0.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 14px;
+  color: #ff7979;
+}
+.fill4 {
+  height: 100%;
+  width: 40%;
+  top: 0;
+  right: 60%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2px;
+  background-color: #ff7979;
+}
+.div10,
+.fill4,
+.title9 {
+  position: absolute;
+}
+.div10 {
+  top: 1px;
+  left: 249px;
+  line-height: 100%;
+  font-weight: 600;
+}
+.title9 {
+  top: 0;
+  left: 0;
+  width: 216px;
+  height: 36px;
+}
+.attach3,
+.comment3,
+.fill5,
+.right3 {
+  position: absolute;
+  height: 100%;
+  width: 45.45%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 54.55%;
+}
+.comment3,
+.fill5,
+.right3 {
+  width: 38.96%;
+  right: 61.04%;
+  left: 0;
+}
+.fill5,
+.right3 {
+  height: 60%;
+  width: 27.5%;
+  top: 20%;
+  right: 0;
+  bottom: 20%;
+  left: 72.5%;
+}
+.fill5 {
+  height: 100%;
+  width: 70%;
+  top: 0;
+  right: 30%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2px;
+  background-color: #ffa048;
+}
+.title11 {
+  width: 172px;
+  height: 36px;
+}
+.fill6,
+.task7,
+.title11,
+.title13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.fill6 {
+  height: 100%;
+  width: 30%;
+  right: 70%;
+  bottom: 0;
+  border-radius: 2px;
+  background-color: #ffa048;
+}
+.task7,
+.title13 {
+  width: 168px;
+  height: 36px;
+}
+.task7 {
+  width: 320px;
+  height: 178px;
+  color: #1c1d22;
+}
+.inProgress {
+  position: absolute;
+  top: 164px;
+  left: 814px;
+  width: 352px;
+  height: 826px;
+}
+.fill7 {
+  height: 100%;
+  width: 20%;
+  top: 0;
+  right: 80%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2px;
+  background-color: #ff7979;
+}
+.div16,
+.fill7,
+.title15 {
+  position: absolute;
+}
+.title15 {
+  top: 0;
+  left: 0;
+  width: 211px;
+  height: 36px;
+}
+.div16 {
+  top: 11.11%;
+  left: 70.97%;
+  line-height: 100%;
+  font-weight: 600;
+}
+.attach4,
+.comment4,
+.right4 {
+  position: absolute;
+  height: 100%;
+  width: 42.47%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 57.53%;
+}
+.comment4,
+.right4 {
+  width: 41.1%;
+  right: 58.9%;
+  left: 0;
+}
+.right4 {
+  height: 60%;
+  width: 26.07%;
+  top: 20%;
+  right: 0;
+  bottom: 20%;
+  left: 73.93%;
+}
+.title17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 202px;
+  height: 36px;
+}
+.task9 {
+  top: 384px;
+  left: 0;
+  width: 320px;
+  height: 178px;
+  color: rgba(28, 29, 34, 0.5);
+}
+.attach5,
+.div20,
+.task9 {
+  position: absolute;
+}
+.attach5 {
+  height: 100%;
+  width: 42.25%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 57.75%;
+}
+.div20 {
+  top: 11.11%;
+  left: 75.86%;
+  line-height: 100%;
+  font-weight: 600;
+}
+.comment5,
+.right5 {
+  position: absolute;
+  height: 100%;
+  width: 40.85%;
+  top: 0;
+  right: 59.15%;
+  bottom: 0;
+  left: 0;
+}
+.right5 {
+  height: 60%;
+  width: 25.36%;
+  top: 20%;
+  right: 0;
+  bottom: 20%;
+  left: 74.64%;
+}
+.title19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 207px;
+  height: 36px;
+}
+.task10 {
+  width: 320px;
+  height: 178px;
+  color: rgba(28, 29, 34, 0.5);
+}
+.box26,
+.fill10,
+.task10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.box26 {
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 6px 20px 36px rgba(28, 29, 34, 0.1);
+  width: 320px;
+  height: 178px;
+}
+.fill10 {
+  height: 100%;
+  width: 40%;
+  right: 60%;
+  bottom: 0;
+  border-radius: 2px;
+  background-color: #ffa048;
+}
+.task11,
+.tasks2,
+.title21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 189px;
+  height: 36px;
+}
+.task11,
+.tasks2 {
+  top: 188px;
+  left: 1px;
+  width: 320px;
+  height: 178px;
+}
+.tasks2 {
+  top: 56px;
+  left: 16px;
+  width: 321px;
+  height: 754px;
+}
+.top24 {
+  top: 22px;
+  left: 16px;
+  width: 320px;
+  height: 18px;
+}
+.lineIcon,
+.toDo,
+.top24 {
+  position: absolute;
+}
+.toDo {
+  top: 164px;
+  left: 440px;
+  width: 352px;
+  height: 826px;
+  color: #1c1d22;
+}
+.lineIcon {
+  top: 49px;
+  left: 0;
+  width: 1092px;
+  height: 2px;
+}
+.newTemplate {
+  position: relative;
+  line-height: 100%;
+  font-weight: 600;
+}
+.button {
+  position: absolute;
+  top: 0;
+  left: 146px;
+  border-radius: 19px;
+  background-color: #1c1d22;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 14px;
+}
+.filter,
+.sort {
+  position: absolute;
+  top: 28.95%;
+  line-height: 100%;
+  font-weight: 600;
+}
+.sort {
+  left: 19.58%;
+  color: rgba(28, 29, 34, 0.5);
+}
+.filter {
+  left: 0;
+  color: #1c1d22;
+}
+.moreIcon11 {
+  position: absolute;
+  top: 6px;
+  left: 104px;
+  width: 26px;
+  height: 26px;
+}
+.borderIcon,
+.right6 {
+  position: absolute;
+  top: 0;
+  left: 806px;
+  width: 286px;
+  height: 38px;
+}
+.borderIcon {
+  top: 144px;
+  left: 577px;
+  width: 122px;
+  height: 0;
+}
+.addView {
+  position: absolute;
+  top: 5.56%;
+  left: 27.66%;
+  line-height: 100%;
+  font-weight: 600;
+}
+.content {
+  position: absolute;
+  height: 50%;
+  width: 77.05%;
+  top: 0;
+  right: 11.48%;
+  bottom: 50%;
+  left: 11.48%;
+}
+.borderIcon1,
+.item5 {
+  position: absolute;
+  top: 0;
+  left: 137px;
+  width: 122px;
+  height: 36px;
+}
+.borderIcon1 {
+  top: 35px;
+  left: 0;
+  width: 137px;
+  height: 2px;
+}
+.boardView {
+  position: absolute;
+  top: 5.56%;
+  left: 23.85%;
+  line-height: 100%;
+  font-weight: 600;
+}
+.content1,
+.icon27 {
+  position: absolute;
+  top: 0;
+}
+.icon27 {
+  left: 0;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.content1 {
+  height: 50%;
+  width: 79.56%;
+  right: 10.22%;
+  bottom: 50%;
+  left: 10.22%;
+}
+.item6 {
+  top: 0;
+  left: 0;
+  width: 137px;
+  height: 36px;
+  color: #1c1d22;
+}
+.item6,
+.items5,
+.menu {
+  position: absolute;
+}
+.items5 {
+  top: 14px;
+  left: 0;
+  width: 259px;
+  height: 36px;
+  color: rgba(28, 29, 34, 0.5);
+}
+.menu {
+  top: 94px;
+  left: 440px;
+  width: 1092px;
+  height: 50px;
+  font-size: 16px;
+  color: #fff;
+}
+.boxIcon5,
+.profileIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1156px;
+  height: 94px;
+}
+.profileIcon {
+  left: 233px;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+.may2022 {
+  position: absolute;
+  top: 3px;
+  left: 30px;
+  line-height: 100%;
+  font-weight: 600;
+}
+.icon28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.calender,
+.notificationsIcon,
+.searchIcon {
+  position: absolute;
+  top: 7px;
+  left: 88px;
+  width: 123px;
+  height: 22px;
+}
+.notificationsIcon,
+.searchIcon {
+  left: 44px;
+  width: 22px;
+}
+.searchIcon {
+  left: 0;
+  overflow: hidden;
+}
+.right7 {
+  position: absolute;
+  top: 0;
+  left: 823px;
+  width: 269px;
+  height: 36px;
+}
+.welcomeBackVincent {
+  position: absolute;
+  top: 22.22%;
+  left: 0;
+  font-size: 20px;
+  line-height: 100%;
+  color: #1c1d22;
+}
+.content2,
+.header {
+  position: absolute;
+  top: 29px;
+  left: 32px;
+  width: 1092px;
+  height: 36px;
+}
+.header {
+  top: 0;
+  left: 408px;
+  width: 1156px;
+  height: 94px;
+  font-size: 16px;
+}
+.box28,
+.boxIcon6 {
+  position: absolute;
+  top: 0;
+  left: -40px;
+  width: 478px;
+  height: 1022px;
+}
+.box28 {
+  left: 0;
+  border-radius: 22px;
+  background-color: rgba(28, 29, 34, 0.04);
+  width: 262px;
+  height: 42px;
+}
+.box29 {
+  top: 0;
+  left: 0;
+  border-radius: 18px;
+  width: 127px;
+  height: 34px;
+}
+.box29,
+.dark,
+.icon29 {
+  position: absolute;
+}
+.dark {
+  top: 3px;
+  left: 26px;
+  line-height: 100%;
+  font-weight: 600;
+}
+.icon29 {
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  opacity: 0.5;
+}
+.box30,
+.content3,
+.item7 {
+  position: absolute;
+  top: 7px;
+  left: 35px;
+  width: 57px;
+  height: 20px;
+}
+.box30,
+.item7 {
+  top: 0;
+  left: 127px;
+  width: 127px;
+  height: 34px;
+}
+.box30 {
+  left: 0;
+  border-radius: 18px;
+  background-color: #fff;
+  box-shadow: 0 8px 6px rgba(28, 29, 34, 0.06);
+}
+.content4,
+.icon30,
+.item8 {
+  position: absolute;
+  height: 20px;
+}
+.icon30 {
+  top: 0;
+  left: 0;
+  width: 20px;
+  overflow: hidden;
+}
+.content4,
+.item8 {
+  top: 7px;
+  left: 34px;
+  width: 59px;
+}
+.item8 {
+  top: 0;
+  left: 0;
+  width: 127px;
+  height: 34px;
+  color: #1c1d22;
+}
+.icon31,
+.items6,
+.mode {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 254px;
+  height: 34px;
+}
+.icon31,
+.mode {
+  top: 952px;
+  left: 28px;
+  width: 262px;
+  height: 42px;
+}
+.icon31 {
+  top: 3px;
+  left: 256px;
+  width: 6px;
+  height: 10px;
+}
+.messengers {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 100%;
+}
+.item10,
+.item9 {
+  position: absolute;
+  top: 556px;
+  left: 0;
+  width: 261px;
+  height: 16px;
+}
+.item10 {
+  top: 512px;
+}
+.item12 {
+  top: 138px;
+}
+.item12,
+.item13,
+.item14,
+.item15 {
+  position: absolute;
+  left: 0;
+  border-radius: 18px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item13 {
+  top: 92px;
+  background-color: rgba(28, 29, 34, 0.04);
+  color: #1c1d22;
+}
+.item14,
+.item15 {
+  top: 46px;
+}
+.item15 {
+  top: 0;
+}
+.icon33,
+.items8,
+.linesIcon,
+.sub {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  width: 146px;
+  height: 174px;
+}
+.icon33,
+.linesIcon,
+.sub {
+  left: -1px;
+  width: 16px;
+}
+.icon33,
+.sub {
+  top: 32px;
+  left: 1px;
+  width: 169px;
+}
+.icon33 {
+  top: 5px;
+  left: 252px;
+  width: 10px;
+  height: 6px;
+}
+.item11,
+.title22 {
+  position: absolute;
+  left: 0;
+  width: 261px;
+}
+.title22 {
+  top: 0;
+  height: 16px;
+  color: #1c1d22;
+}
+.item11 {
+  top: 278px;
+  height: 206px;
+}
+.item18,
+.item19 {
+  position: absolute;
+  top: 92px;
+  left: 0;
+  border-radius: 18px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item19 {
+  top: 46px;
+  background-color: rgba(28, 29, 34, 0.04);
+  color: #1c1d22;
+}
+.items9,
+.sub1 {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  width: 145px;
+  height: 174px;
+}
+.sub1 {
+  top: 32px;
+  left: 1px;
+  width: 168px;
+}
+.item16,
+.item21,
+.items7 {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 261px;
+  height: 206px;
+}
+.item21,
+.items7 {
+  top: 0;
+  height: 16px;
+}
+.items7 {
+  top: 100px;
+  left: 28px;
+  height: 572px;
+  font-size: 16px;
+}
+.icon36,
+.title24 {
+  position: absolute;
+  top: 1px;
+  left: 234px;
+  width: 28px;
+  height: 28px;
+}
+.title24 {
+  top: 32px;
+  left: 28px;
+  width: 262px;
+  height: 30px;
+  font-size: 30px;
+  color: #1c1d22;
+}
+.projects,
+.sidebarIcon {
+  position: absolute;
+  top: 0;
+  left: 90px;
+  width: 318px;
+  height: 1022px;
+}
+.sidebarIcon {
+  left: 0;
+  width: 90px;
+}
+.lightMode {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1022px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: rgba(28, 29, 34, 0.5);
+  font-family: "Exo 2";
+}
